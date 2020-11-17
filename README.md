@@ -5,4 +5,5 @@
 	* Free-form text queries;
 	* The system must allow relevance feedback;
 	* Also the use of pseudo-relevance feedback is possible;
+	* Evaluate the system on a set of test queries.
 
